@@ -1,1 +1,1 @@
-# Creality-3D-Firmare
+# Creality-3D-Firmware
